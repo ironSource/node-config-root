@@ -1,11 +1,10 @@
 {
   "name": "config-root",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "Get the users config directory, cross-platform",
   "license": "BSD-2-Clause",
   "author": "Vincent Weevers",
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "os-tmpdir": "~1.0.1",
     "osenv": "~0.1.3",
